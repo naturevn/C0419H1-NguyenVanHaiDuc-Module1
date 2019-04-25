@@ -1,4 +1,5 @@
-function hello() 
-	{
-		aler('Xin Chào K4 CodeGym Huế');
-	}	
+function messhello() 
+{
+	document.getElementById("idmes").innerHTML = "Paragraph changed."
+	alert('PXU');
+}
